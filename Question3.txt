@@ -1,0 +1,11 @@
+A. What is reverse-i-search in a Linux terminal?
+Ans - It allows you to search and recall previously executed commands by typing a portion of the command and pressing Ctrl + R
+
+B. How do you list out the hidden directories using Linux command line tool?
+Ans - To list hidden directories in Linux using the command line, you can use the command "ls -a" or "ls -d .*"
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+Ans - I am comfortable with using Linux-based operating systems like Ubuntu, CentOS, etc.
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+Ans - Yes, I have used servers to host web applications in the past. I have set up services like Apache, Nginx, MySQL, and SMTP (Postfix) for various web projects.
